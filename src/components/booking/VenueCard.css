@@ -1,0 +1,9 @@
+.venue-card {
+  border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .venue-card:hover {
+    transform: scale(1.05);
+  }
+  

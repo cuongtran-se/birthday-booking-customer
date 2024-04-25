@@ -1,0 +1,8 @@
+.package-card {
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.package-card:hover {
+  transform: scale(1.05);
+}
